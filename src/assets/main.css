@@ -1,0 +1,13 @@
+body {
+    background-color: #fff8e1;
+  }
+  h1, h2 {
+    color: #039be5;
+  }
+  p {
+    font-weight: 600;
+  }
+  .btn btn-primary {
+   background-color: #039be5;
+   border-color: #039be5;
+  }
